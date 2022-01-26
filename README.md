@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/star-sil/star-sil&count_bg=%233DC1C8&title_bg=%23BCB3B3&icon=github.svg&icon_color=23E7E7E7%&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kse">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star-sil&show_icons=true&theme=default)
 
 ### 💬CONTACT
@@ -19,12 +17,14 @@
 
 ### 🔥Tech Stack
 ---------------------------------------------------------------------------------------------------------
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kse">
   
 **📌Language**
 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-FFCF00?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
 
 **📌Backend**
 
