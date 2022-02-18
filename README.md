@@ -1,5 +1,6 @@
 <div align=center>
-  <h2 align="center"> Hi there 👋</h2>
+  <h1 align="center"> Hi there 👋</h1>
+  <br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/star-sil/star-sil&count_bg=%233DC1C8&title_bg=%23BCB3B3&icon=github.svg&icon_color=23E7E7E7%&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kse)](https://solved.ac/kse) 
