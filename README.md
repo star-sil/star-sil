@@ -7,10 +7,12 @@
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kse)](https://solved.ac/kse)
   
-<br>
+  <br>
   
   <h2 align="center"> 💬 CONTACT</h2>
 
+  <br>
+  
   <a href="https://www.notion.so/star-sil/86f7084fc0fe4383965b47b6ce7f5585"><img src="https://img.shields.io/badge/-BLUG-000000?style=flat&logo=notion&logoColor=00000"/></a>
   [![Naver Email Badge](https://img.shields.io/badge/kimse9811@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kimse9811@naver.com)
   
@@ -19,9 +21,9 @@
    <br><br>
 
 <div align=center>
-    <h2 align="center">🔥 Tech Stack</h2>
+  <h2 align="center">🔥 Tech Stack</h2>
 
-  <h4 align="center">📌 Language</h4>
+  <h3 align="center">📌 Language</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -30,7 +32,7 @@
   
   <br>
 
-  <h4 align="center">📌 Backend</h4>
+  <h3 align="center">📌 Backend</h3>
   <p align="center">
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   </p>
