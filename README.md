@@ -13,7 +13,7 @@
 
   <br>
   
-  <a href="https://www.notion.so/star-sil/86f7084fc0fe4383965b47b6ce7f5585"><img src="https://img.shields.io/badge/-BLUG-000000?style=flat&logo=notion&logoColor=00000"/></a>
+<a href="https://star-sil.github.io/"><img src="http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://star-sil.github.io"/>
   [![Naver Email Badge](https://img.shields.io/badge/kimse9811@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kimse9811@naver.com)
   
   </div>
@@ -31,6 +31,7 @@
     <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/MySql-blue?style=flat-square&logo=MySql&logoColor=white"/></a>
   </p>
   
 </div>
