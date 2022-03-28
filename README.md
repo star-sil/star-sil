@@ -34,5 +34,16 @@
     <img src="https://img.shields.io/badge/MySql-blue?style=flat-square&logo=MySql&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/docker-blue?style=flat-square&logo=MySql&logoColor=white"/></a>
   </p>
+  <br>
+    <h2 align="center"> 🎬 Activity</h2>
+  <br>
+  
+  |Organization|Activity|Date|
+  |:---:|:---:|:---:|
+  |멋쟁이사자처럼 10기|백엔드 트랙|2022|
+  |삼성 sds 22년 동계 대학생 알고리즘 특강|참여 및 수료|2021|
+  |금오공대 SAT 알고리즘 동아리|참여|2021|
+  |cilab 연구실|학부 인턴|2021|
   
 </div>
+
