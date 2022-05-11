@@ -7,6 +7,8 @@
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kse)](https://solved.ac/kse)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star-sil&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
   <br>
   
   <h2 align="center"> 💬 CONTACT</h2>
