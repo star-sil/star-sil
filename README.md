@@ -9,15 +9,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star-sil&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
-  <br>
-  
-  <h2 align="center"> 💬 CONTACT</h2>
-
-  <br>
-  
-<a href="https://star-sil.github.io/"><img src="http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://star-sil.github.io"/>
-  [![Naver Email Badge](https://img.shields.io/badge/kimse9811@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kimse9811@naver.com)
-  
   </div>
   
    <br>
@@ -40,13 +31,13 @@
     <h2 align="center"> 🎬 Activity</h2>
   <br>
   
-  |Organization|Activity|Date|
-  |:---:|:---:|:---:|
-  |KIT 학습공동체 14기|사동고등학교 웹프로그래밍 멘토|2022|
-  |멋쟁이사자처럼 10기|백엔드 트랙|2022|
-  |삼성 sds 22년 동계 대학생 알고리즘 특강|참여 및 수료|2022|
-  |금오공대 SAT 알고리즘 동아리|참여|2021|
-  |cilab 연구실|학부 인턴|2021|
+  |Organization|Activity|acheive|Date|
+  |:---:|:---:|:---:|:---:|
+  |KIT 학습공동체 14기|사동고등학교 웹프로그래밍 멘토|최우수 멘토 선정|2022|
+  |멋쟁이사자처럼 10기|백엔드 트랙|-|2022|
+  |삼성 sds 22년 동계 대학생 알고리즘 특강|알고리즘 특강 수강|수료|2022|
+  |금오공대 SAT 알고리즘 동아리|참여|-|2021|
+  |cilab 연구실|학부 인턴|-|2021|
   
 </div>
 
